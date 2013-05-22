@@ -6,10 +6,10 @@
         id        = "com.jobhip.jobhip"
         version   = "1.0.0">
 
-    <name>Jobhip</name>
+    <name>jobhip</name>
 
     <description>
-        Jobhip application for phones, find your new job with your mobile.
+        Jobhip application for mobile devices, find your new job with your mobile.
     </description>
 
     <author href="http://www.jobhip.com" email="info@jobhip.com">
